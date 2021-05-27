@@ -15,28 +15,35 @@
 
 
 /*
-for (let x = 1; x <= 10; x += 1)
+for (let x = 1; x <= 10; x += 1) {
     console.log(x)
+}
 */
+
 
 
 /*
 var cont = 10;
 while (cont >= 1) {
-    document.write(cont);
+
+    console.log(cont);
     cont--;
 }
-// Resultado na página!*/
+*/
 
 
 /*
-for (let x = 1; x <= 100; x += 2)
+for (let x = 1; x <= 100; x += 2) {
     console.log(x)
-    */
+}
+*/
+
 
 
 
 /*
-for (let x = 0; x <= 100; x += 2)
+for (let x = 0; x <= 100; x += 2) {
     console.log(x)
-    */
+}
+
+*/
